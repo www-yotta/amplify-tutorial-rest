@@ -1,4 +1,4 @@
 # amplify-tutorial-rest
 
 ## test
-hoge
+fuga
